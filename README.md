@@ -1,11 +1,11 @@
 # deepTFBS: Improving within- and cross-species prediction of transcription factor binding using deep multi-task and transfer learning
-deepTFBS: Improving within- and cross-species prediction of transcription factor binding using deep multi-task and transfer learning
+
 
 <a href="https://hub.docker.com/r/malab/peam6a" target="_blank"><img src="https://img.shields.io/badge/Docker_image-ready-red.svg" target="_blank"></a><a href="https://hub.docker.com/r/malab/peam6a" target="_blank"><img src="https://img.shields.io/docker/pulls/malab/peam6a"></a><a href="https://github.com/cma2015/deepTFBS" target="_blank"><img src="https://img.shields.io/badge/Source%20codes-support-blue"></a><a href="https://github.com/cma2015/deepTFBS" target="_blank"><img src="https://img.shields.io/badge/Test_data-support-blue.svg"></a>
 
 ## Introduction
 
-- **PEA-m6A** is  an ensemble learning framework for predicting m<sup>6</sup>A modifications at regional-scale. PEA-m6A consists of four modules: **Sample Preparation, Feature Encoding, Model Development and Model Assessment**, each of which contains a comprehensive collection of functions with pre-specified parameters available.
+- **deepTFBS** takes advantages of **multi-task learning** technique to integrate large-scale TF binding profiles for **pre-training**, and is capable of leveraging knowledge from pre-trained models via **transfer learning**, representing an innovation in that it can improve prediction accuracy of **TFBS** under small-sample training and cross-species prediction tasks.
 - The deepTFBS project is hosted on https://github.com/cma2015/deepTFBS.
 - The deepTFBS Docker image can be obtained from https://hub.docker.com/r/malab/deeptfbs.
 
