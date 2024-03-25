@@ -6,10 +6,10 @@ deepTFBS: Improving within- and cross-species prediction of transcription factor
 ## Introduction
 
 - **PEA-m6A** is  an ensemble learning framework for predicting m<sup>6</sup>A modifications at regional-scale. PEA-m6A consists of four modules: **Sample Preparation, Feature Encoding, Model Development and Model Assessment**, each of which contains a comprehensive collection of functions with pre-specified parameters available.
-- The PEA-m6A project is hosted on https://github.com/cma2015/PEA-m6A.
-- The PEA-m6A Docker image can be obtained from https://hub.docker.com/r/malab/peam6a.
+- The deepTFBS project is hosted on https://github.com/cma2015/deepTFBS.
+- The deepTFBS Docker image can be obtained from https://hub.docker.com/r/malab/deeptfbs.
 
-## How to use PEA-m6A
+## How to use deepTFBS
 
 - Test data and tutorial of deepTFBS are presented at https://github.com/cma2015/deepTFBS/blob/main/User_Man.md.
 
