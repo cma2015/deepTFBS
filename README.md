@@ -1,7 +1,7 @@
 # deepTFBS: Improving within- and cross-species prediction of transcription factor binding using deep multi-task and transfer learning
 
 
-<a href="https://hub.docker.com/r/malab/peam6a" target="_blank"><img src="https://img.shields.io/badge/Docker_image-ready-red.svg" target="_blank"></a><a href="https://hub.docker.com/r/malab/peam6a" target="_blank"><img src="https://img.shields.io/docker/pulls/malab/peam6a"></a><a href="https://github.com/cma2015/deepTFBS" target="_blank"><img src="https://img.shields.io/badge/Source%20codes-support-blue"></a><a href="https://github.com/cma2015/deepTFBS" target="_blank"><img src="https://img.shields.io/badge/Test_data-support-blue.svg"></a>
+<a href="https://hub.docker.com/r/malab/deeptfbs" target="_blank"><img src="https://img.shields.io/badge/Docker_image-ready-red.svg" target="_blank"></a><a href="https://hub.docker.com/r/malab/peam6a" target="_blank"><img src="https://img.shields.io/docker/pulls/malab/peam6a"></a><a href="https://github.com/cma2015/deepTFBS" target="_blank"><img src="https://img.shields.io/badge/Source%20codes-support-blue"></a><a href="https://github.com/cma2015/deepTFBS" target="_blank"><img src="https://img.shields.io/badge/Test_data-support-blue.svg"></a>
 
 ## Introduction
 
