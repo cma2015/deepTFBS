@@ -50,7 +50,7 @@ Once Docker installation is completed, we can run `hello-world` image to verify 
 
 ```shell
 # pull latest deepTFBS Docker image from docker hub
-$ docker pull malab/deepTFBS
+$ docker pull malab/deeptfbs
 ```
 
 #### Step 3: Launch deepTFBS local server
